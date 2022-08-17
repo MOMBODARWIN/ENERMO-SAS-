@@ -1,0 +1,44 @@
+﻿company;sector;Ticker
+ArcelorMittal;METALS;MT
+Thyssenkrup;METALS;TKA.DE
+imerys;METALS;NK.PA
+saint Gobain;Cement;SGO.PA
+Sanofi;Chemicals & Industrial;SNY
+Linde;Chemicals & Industrial;LIN
+Burelle;Chemicals & Industrial;BUR.PA
+Covestro;Chemicals & Industrial;1COV.DE
+Yara;Chemicals & Industrial;YAR.OL
+Vinci;Construction;DG.PA
+Bouygues;Construction;EN.PA
+Eiffage;Construction;FGR.PA
+Amazon;Logistics / Transport;AMZN
+DHL;Logistics / Transport;DHLU.SI
+Bolloré;Logistics / Transport;BOL.PA
+XPO;Logistics / Transport;XPO
+Maersk;Logistics / Transport;MAERSK-B.CO
+Air France;Logistics / Transport;AF.PA
+L'Oréal;Consummer cyclical;OR.PA
+Carrefour;Consummer cyclical;CA.PA
+Anglo American;Mining;NGLOY
+Eramet;Mining;ERA.PA
+BHP;Mining;BHP
+Rio Tinto;Mining;RIO
+Vale;Mining;VALE
+Orange;Telecom;ORAN
+Microsof;Telecom;MSFT
+VerIzon;Telecom;VZ
+Altice;Telecom;ATUS
+Veolia;Energy;VIE.PA
+Kimberley Clarke;Industrials;KMB
+Smurfit Kappa;Industrials;SKG.L
+Mondi;Industrials;MNDI.L
+Stellantis;Mobility;STLA
+Renault ;Mobility;RNO.PA
+Daimler ;Mobility;DTG.DE
+Volvo Truck;Mobility;VOLCAR-B.ST
+Michelin;Mobility;ML.PA
+Thales;Mobility;HO.PA
+Airbus;Mobility;AIR.PA
+Safran;Mobility;SAF.PA
+Valeo;Mobility;FR.PA
+Nissan;Mobility;NSANY
